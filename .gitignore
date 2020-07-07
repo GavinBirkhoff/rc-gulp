@@ -25,4 +25,4 @@ dist
 tests/*.css
 yarn.lock
 package-lock.json
-.vscode
+.vscode/
