@@ -1,6 +1,6 @@
 {
   "name": "rc-gulp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "cli for react components",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "rc-gulp": "./bin/rc-gulp.js",
     "rc-gulp-run": "./bin/rc-gulp-run.js"
   },
-    "repository": {
+  "repository": {
     "type": "git",
     "url": "git@github.com:GavinBirkhoff/rc-gulp.git"
   },
@@ -65,6 +65,7 @@
     "postcss-loader": "^3.0.0",
     "rimraf": "^3.0.2",
     "rucksack-css": "^1.0.2",
+    "sass": "^1.26.9",
     "through2": "^3.0.1",
     "ts-loader": "^7.0.5",
     "typescript": "^3.9.5",
